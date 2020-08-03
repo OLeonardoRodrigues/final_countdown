@@ -1,3 +1,3 @@
-# final_countdown
+# Final Countdown
 
 Simple countdown app.
