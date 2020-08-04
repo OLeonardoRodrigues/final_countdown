@@ -1,3 +1,3 @@
 # Final Countdown
 
-Simple countdown app.
+Simple countdown app in React.
