@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/OliveiraLeonardo17/final_countdown#readme",
   "dependencies": {
-    "moment": "^2.29.0",
+    "moment": "^2.29.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
